@@ -1,5 +1,8 @@
 # Filenames
 .DS_Store
 
+# Filepaths
+.ipynb_checkpoints/*
+
 # Working folder paths
 namesbystate/*
